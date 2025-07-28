@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub! I'm **Himanshu Kumar**, a passionate and dedicated third-year B.Tech student with a strong interest in software development, problem solving, and modern tech stacks. I love building robust applications and continuously learning new tools and technologies.
+Welcome to my GitHub! I'm **Himanshu Kumar** (`krHimanshu123`), a passionate and dedicated third-year B.Tech student with a strong interest in software development, problem solving, and modern tech stacks. I love building robust applications and continuously learning new tools and technologies.
 
 ---
 
@@ -59,13 +59,28 @@ Welcome to my GitHub! I'm **Himanshu Kumar**, a passionate and dedicated third-y
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<!--
-**No images or stats bars as per your professional, minimal theme. If you want to add them back, uncomment below:**
+<div align="center" style="background:#181818; border-radius: 10px; padding: 24px 0; box-shadow:0 2px 8px rgba(0,0,0,0.05); max-width: 100%;">
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu-kumar&show_icons=true&theme=calm)
--->
+<a href="https://github.com/krHimanshu123">
+  <img src="https://github-readme-stats.vercel.app/api?username=krHimanshu123&show_icons=true&theme=dark&hide_title=true&hide_rank=false&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" style="max-width:100%;"/>
+</a>
+<a href="https://github.com/krHimanshu123">
+  <img src="https://streak-stats.demolab.com?user=krHimanshu123&theme=dark&hide_border=false&border_radius=10" height="160" alt="GitHub Streak" style="max-width:100%;"/>
+</a>
+<a href="https://github.com/krHimanshu123">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krHimanshu123&layout=compact&theme=dark&hide_border=false&border_radius=10" height="160" alt="Top Languages" style="max-width:100%;"/>
+</a>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center" style="background:#181818; border-radius: 10px; padding: 20px 0; max-width: 100%;">
+  <img src="https://github-profile-trophy.vercel.app/?username=krHimanshu123&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" style="max-width:100%;"/>
+</div>
 
 ---
 
@@ -82,5 +97,5 @@ Welcome to my GitHub! I'm **Himanshu Kumar**, a passionate and dedicated third-y
 
 <!--  
   Professional, clean, image-free README designed for a strong personal brand.
-  Feel free to further personalize links, highlights, or sections!
+  Adjust username, links, and highlights as needed!
 -->
