@@ -17,7 +17,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=380&lines=👨‍💻Hi%2C+I'm+Himanshu+Kumar;Full+Stack+%7C+Software+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=380&lines=👨‍💻Hi%2C+I'm+Himanshu+Kumar;Full+Stack+Developer;Software+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <!-- Short introduction below the banner -->
