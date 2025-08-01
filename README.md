@@ -17,12 +17,12 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=30FDCB&center=true&vCenter=true&width=380&lines=👨‍💻Hi%2C+I'm+Himanshu+Kumar;Full+Stack+%7C+Cloud+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=380&lines=👨‍💻Hi%2C+I'm+Himanshu+Kumar;Full+Stack+%7C+Software+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <!-- Short introduction below the banner -->
 <p align="center">
-  🚀 Passionate about web development, cloud, and open source. <br/>
+  🚀 Passionate about web & App development and open source. <br/>
   🎓 B.Tech, India, 2027.
 </p>
 
