@@ -72,7 +72,6 @@
 
 
 
-
 ## 🛠️ Tech Stack
 
 <table>
