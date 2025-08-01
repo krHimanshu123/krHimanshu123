@@ -7,31 +7,50 @@
   - All sections are directly actionable for recruiters & collaborators.
 -->
 
-<h1 align="center">👨‍💻 Himanshu Kumar</h1>
-<p align="center">
-  <b>3rd Year B.Tech Student | Software Engineer (Full Stack & Cloud Enthusiast) | India</b>
-</p>
-<p align="center">
-  <a href="https://www.codechef.com/users/kl_2300030557" title="CodeChef"><img src="https://skillicons.dev/icons?i=codechef" height="32"/></a>
-  <a href="https://leetcode.com/klu2300030557/" title="LeetCode"><img src="https://skillicons.dev/icons?i=leetcode" height="32"/></a>
-  <a href="https://www.hackerrank.com/profile/klu2300030557" title="HackerRank"><img src="https://skillicons.dev/icons?i=hackerrank" height="32"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/user_dm4ubxhqh8u" title="GeeksforGeeks"><img src="https://skillicons.dev/icons?i=geeksforgeeks" height="32"/></a>
-  <a href="https://www.linkedin.com/in/himanshu-kumar-btech" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="mailto:himanshu.kumar.btech@gmail.com" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
-  <a href="https://himanshu-kumar.dev" title="Portfolio"><img src="https://skillicons.dev/icons?i=netlify" height="32"/></a>
-  <a href="https://github.com/krHimanshu123" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="32"/></a>
+   <!--
+  Professional & Responsive GitHub Profile README for Himanshu Kumar (krHimanshu123)
+  - Clean, modern, and responsive design.
+  - Animated SVG icons and subtle transitions.
+  - Focused on branding, strengths, and accessibility.
+  - Actionable for recruiters & collaborators.
+  - No banner, no clutter, just impact.
+-->
+
+<h1 align="center" style="font-size:2.6rem;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=30FDCB&center=true&vCenter=true&multiline=true&width=650&lines=👨‍💻+Himanshu+Kumar;Full+Stack+%7C+Cloud+Enthusiast+%7C+Open+Source+;B.Tech+%E2%80%93+India+%E2%80%93+2026;" alt="Typing SVG" />
+</h1>
+
+<p align="center" style="margin-bottom:0.6em;">
+  <b>
+    3rd Year B.Tech Student &nbsp;|&nbsp; Software Engineer (Full Stack & Cloud Enthusiast) &nbsp;|&nbsp; India
+  </b>
 </p>
 
+<p align="center" style="margin-bottom:1em;">
+  <a href="https://www.codechef.com/users/kl_2300030557" title="CodeChef"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" height="32" style="margin:0 6px;"/></a>
+  <a href="https://leetcode.com/klu2300030557/" title="LeetCode"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="32" style="margin:0 6px;"/></a>
+  <a href="https://www.hackerrank.com/profile/klu2300030557" title="HackerRank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="32" style="margin:0 6px;"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/user_dm4ubxhqh8u" title="GeeksforGeeks"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="32" style="margin:0 6px;"/></a>
+  <a href="https://www.linkedin.com/in/himanshu-kumar-btech" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" style="margin:0 6px;"/></a>
+  <a href="mailto:himanshu.kumar.btech@gmail.com" title="Gmail"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="32" style="margin:0 6px;"/></a>
+  <a href="https://himanshu-kumar.dev" title="Portfolio"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" height="32" style="margin:0 6px;"/></a>
+  <a href="https://github.com/krHimanshu123" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" style="margin:0 6px;"/></a>
+</p>
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=36C3FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+scalable+code.+Always+learning%2C+always+building!;Let's+connect+%F0%9F%91%8B" alt="Animated intro" />
+</div>
 
+---
 
 ## 🚀 About Me
 
-- 🎓 **Education:** 3rd Year B.Tech Student
-- 💡 **Passion:** Full Stack Development, Cloud, Open Source, AI, Competitive Programming
-- 🌱 **Currently:** Building robust web apps, mastering cloud & backend, and contributing to open-source
+- 🎓 <b>Education:</b> B.Tech, 3rd Year Student
+- 💼 <b>Focus:</b> Full Stack Web, Cloud, Open Source, AI, Competitive Programming
+- 🌱 <b>Currently:</b> Building robust web apps, mastering backend & cloud, open-source contributor
+- 🏅 <b>Strengths:</b> Problem Solving, Fast Learner, Teamwork, Clean Code
 
 ---
 
