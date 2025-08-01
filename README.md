@@ -160,23 +160,27 @@
 - Stats and trophy are wrapped with links for accessibility.
 - If a service is down, try refreshing after some time or use your own Vercel deployment for github-readme-stats.
 -->
-
-## 🤝 Let's Connect!
-
+<h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="mailto:himanshu.kumar.btech@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
-  <a href="https://www.linkedin.com/in/himanshu-kumar-btech"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="https://himanshu-kumar.dev"><img src="https://skillicons.dev/icons?i=netlify" height="32"/></a>
+  <a href="mailto:himanshu171582@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/himanshu-kumar-b7a68b330?trk=contact-info">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/___himanshu.02">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/918544171582">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://t.me/Himanshu31496">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://krhimanshu123.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
+  </a>
 </p>
-
-
----
-
-<p align="center" style="font-size: 1.07em;">
-  <i>“Turning ideas into clean, scalable code. Eager to learn, collaborate, and make an impact!”</i>
-</p>
-
-
 <!--
   - Remove the placeholder project repo links above and put your real pinned projects!
   - All icons use skillicons.dev or direct SVG/CDN for a premium look.
