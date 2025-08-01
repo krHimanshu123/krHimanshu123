@@ -129,30 +129,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Animations
 
-<div align="center" style="background:#181818; border-radius: 10px; padding: 24px 0; box-shadow:0 2px 8px rgba(0,0,0,0.05); max-width: 100%;">
-
-<a href="https://github.com/krHimanshu123">
-  <img src="https://github-readme-stats.vercel.app/api?username=krHimanshu123&show_icons=true&theme=dark&hide_title=true&hide_rank=false&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" style="max-width:100%;"/>
-</a>
-
-<a href="https://github.com/krHimanshu123">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krHimanshu123&layout=compact&theme=dark&hide_border=false&border_radius=10" height="160" alt="Top Languages" style="max-width:100%;"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krHimanshu123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=krHimanshu123&theme=tokyonight&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krHimanshu123&theme=tokyonight&hide_border=false&layout=compact" height="170"/>
 </div>
 
 
----
-
-## 🏅 GitHub Trophy
-
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krHimanshu123&theme=onedark&no-bg=true&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" style="max-width:100%; border-radius: 12px; box-shadow: 0 2px 12px #00000020;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=krHimanshu123&theme=juicyfresh" alt="GitHub Trophies"/>
 </p>
-
----
-
 <!--
 ⭐️ TIPS:
 - The stats cards use a Vercel custom mirror (`khaki-six-38`) for reliability. If you deploy your own, replace with your deployment URL.
