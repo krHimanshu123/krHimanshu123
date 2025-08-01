@@ -16,13 +16,19 @@
   - No banner, no clutter, just impact.
 -->
 
-<h1 align="center" style="font-size:2.6rem;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=30FDCB&center=true&vCenter=true&multiline=true&width=650&lines=👨‍💻+Himanshu+Kumar;Full+Stack+%7C+Cloud+Enthusiast+%7C+Open+Source+;B.Tech+%E2%80%93+India+%E2%80%93+2026;" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=30FDCB&center=true&vCenter=true&width=380&lines=👨‍💻Hi%2C+I'm+Himanshu+Kumar;Full+Stack+%7C+Cloud+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
 </h1>
+
+<!-- Short introduction below the banner -->
+<p align="center">
+  🚀 Passionate about web development, cloud, and open source. <br/>
+  🎓 B.Tech, India, 2027.
+</p>
 
 <p align="center" style="margin-bottom:0.6em;">
   <b>
-    3rd Year B.Tech Student &nbsp;|&nbsp; Software Engineer (Full Stack & Cloud Enthusiast) &nbsp;|&nbsp; India
+    3rd Year B.Tech Student &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; India
   </b>
 </p>
 
@@ -40,8 +46,14 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=36C3FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+scalable+code.+Always+learning%2C+always+building!;Let's+connect+%F0%9F%91%8B" alt="Animated intro" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=36C3FF&center=true&vCenter=true&width=440&lines=Turning+ideas+into+scalable+code.+Always+learning%2C+always+building!;Let's+connect+%F0%9F%91%8B" 
+    alt="Turning ideas into scalable code. Always learning, always building! Let's connect 👋"
+    style="box-shadow: 0 2px 12px rgba(54,195,255,0.10); border-radius:12px; margin-bottom:12px; max-width: 98vw;"
+    width="440"
+  />
 </div>
+
 
 ---
 
