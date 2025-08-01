@@ -32,30 +32,24 @@
   </b>
 </p>
 
-<p align="center" style="margin-bottom:1em;">
-  <a href="https://www.codechef.com/users/kl_2300030557" title="CodeChef"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" height="32" style="margin:0 6px;"/></a>
-  <a href="https://leetcode.com/klu2300030557/" title="LeetCode"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="32" style="margin:0 6px;"/></a>
-  <a href="https://www.hackerrank.com/profile/klu2300030557" title="HackerRank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="32" style="margin:0 6px;"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/user_dm4ubxhqh8u" title="GeeksforGeeks"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="32" style="margin:0 6px;"/></a>
-  <a href="https://www.linkedin.com/in/himanshu-kumar-btech" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" style="margin:0 6px;"/></a>
-  <a href="mailto:himanshu.kumar.btech@gmail.com" title="Gmail"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="32" style="margin:0 6px;"/></a>
-  <a href="https://himanshu-kumar.dev" title="Portfolio"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" height="32" style="margin:0 6px;"/></a>
-  <a href="https://github.com/krHimanshu123" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" style="margin:0 6px;"/></a>
-</p>
-
-
----
 
 
 
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=36C3FF&center=true&vCenter=true&width=440&lines=Turning+ideas+into+scalable+code.+Always+learning%2C+always+building!;Let's+connect+%F0%9F%91%8B" 
-    alt="Turning ideas into scalable code. Always learning, always building! Let's connect 👋"
-    style="box-shadow: 0 2px 12px rgba(54,195,255,0.10); border-radius:12px; margin-bottom:12px; max-width: 98vw;"
-    width="440"
-  />
+ 
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
