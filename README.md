@@ -119,7 +119,7 @@
 
 - **Portfolio:** [himanshu-kumar.dev](https://himanshu-kumar.dev)
 - **LinkedIn:** [linkedin.com/in/himanshu-kumar-btech](https://www.linkedin.com/in/himanshu-kumar-b7a68b330/)
-- **Email:** [himanshu.kumar.btech@gmail.com](mailto:himanshu171582@gmail.com)
+- **Email:** [himanshu171582@gmail.com](mailto:himanshu171582@gmail.com)
 
 
 
