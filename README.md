@@ -53,9 +53,7 @@
 - 🏅 <b>Strengths:</b> Problem Solving, Fast Learner, Teamwork, Clean Code
 
 
-
 ---
-
 
 
 ## 🛠️ Tech Stack
