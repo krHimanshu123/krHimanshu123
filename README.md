@@ -171,6 +171,11 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
   </a>
 </p>
+
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krHimanshu123&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="krHimanshu123" />
+</p>
 <!--
   - Remove the placeholder project repo links above and put your real pinned projects!
   - All icons use skillicons.dev or direct SVG/CDN for a premium look.
