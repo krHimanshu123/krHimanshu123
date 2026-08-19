@@ -44,7 +44,7 @@
 
 ## 🚀 About Me
 
-- 🎓 <b>Education:</b> B.Tech, 3rd Year Student
+- 🎓 <b>Education:</b> B.Tech, 4th Year Student
 - 💼 <b>Focus:</b> Full Stack Web, Cloud, Open Source, AI, Competitive Programming
 - 🌱 <b>Currently:</b> Building robust web apps, mastering backend & cloud, open-source contributor
 - 🏅 <b>Strengths:</b> Problem Solving, Fast Learner, Teamwork, Clean Code
