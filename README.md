@@ -28,7 +28,7 @@
 
 <p align="center" style="margin-bottom:0.6em;">
   <b>
-    3rd Year B.Tech Student &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; India
+    Final Year B.Tech Student &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; India
   </b>
 </p>
 
